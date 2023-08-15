@@ -1,0 +1,25 @@
+﻿  Source.cpp
+D:\The Project With SFML\The Project With SFML\Source.cpp(289,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(347,20): error C2065: 'c': undeclared identifier
+D:\The Project With SFML\The Project With SFML\Source.cpp(347,22): error C2143: syntax error: missing ';' before 'user-defined literal'
+D:\The Project With SFML\The Project With SFML\Source.cpp(347,22): error C3688: invalid literal suffix 'q'; literal operator or literal operator template 'operator ""q' not found
+D:\The Project With SFML\The Project With SFML\Source.cpp(347,24): error C2018: unknown character '0x60'
+D:\The Project With SFML\The Project With SFML\Source.cpp(348,21): error C2146: syntax error: missing ';' before identifier 'sgrid'
+D:\The Project With SFML\The Project With SFML\Source.cpp(370,51): error C2105: '++' needs l-value
+D:\The Project With SFML\The Project With SFML\Source.cpp(396,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(396,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(408,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(506,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(506,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(517,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(614,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(614,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(832,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(930,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(930,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(942,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(1040,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(1040,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(1051,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(1149,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\The Project With SFML\The Project With SFML\Source.cpp(1149,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
